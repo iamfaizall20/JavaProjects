@@ -1,4 +1,4 @@
-# 🚀 Java Projects
+# Java Projects
 
 A collection of my Java projects to practice and demonstrate core concepts, including:
 
