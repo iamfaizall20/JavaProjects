@@ -5,7 +5,7 @@ A collection of my Java projects to practice and demonstrate core concepts, incl
 - ✅ Control Structures & Loops  
 - 🧠 OOP (Object-Oriented Programming)  
 - 📊 Data Structures & Algorithms  
-- 📁 File Handling  
+- 📁 File Handling
 - 🛠️ Mini Console Apps (like Task Manager)
 
 ## 💡 Purpose
