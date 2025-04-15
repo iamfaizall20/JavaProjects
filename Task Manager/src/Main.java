@@ -33,7 +33,7 @@ public class Main {
         task[TaskNo] = new Tasks(description);
         TaskNo++;
 
-        System.out.println("Task added successfully!");
+        System.out.println("Task added");
     }
 
     public static void viewTasks(){
@@ -112,7 +112,7 @@ public class Main {
                 System.out.println("INVALID Choice!");
             }
             clearScreen();
-            System.out.println("Project Develop by Faizal Hassan");
+            System.out.println("Project Develop by Hassan");
         }
     }
 }
