@@ -112,7 +112,7 @@ public class Main {
                 System.out.println("INVALID Choice!");
             }
             clearScreen();
-        System.out.println("This Code has been Pushed by Hassan");
+            System.out.println("Project Develop by Faizal Hassan");
         }
     }
 }
