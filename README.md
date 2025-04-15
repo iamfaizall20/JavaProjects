@@ -17,7 +17,7 @@ Built for learning, practicing DSA, and creating reusable Java components.
 Contributions are welcome! If you'd like to add your own Java projects or improve existing ones:
 
 1. **Fork this repository**
-2. **Create a new branch** (`your-feature-name`)
+2. **Push code on "pullrequest" branch** (`your-feature-name`)
 3. **Add your project/files**
 4. **Commit your changes** with a clear message
 5. **Open a Pull Request**
