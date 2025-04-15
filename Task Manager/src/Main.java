@@ -94,11 +94,9 @@ public class Main {
         while(true){
 
             System.out.println("\nTask Manager - Choose an option:");
-            System.out.println("1. Add Task");
-            System.out.println("2. View Tasks");
-            System.out.println("3. Update Task");
-            System.out.println("4. Delete Task");
-            System.out.println("5. Exit");
+            System.out.printf("%-20s%-20s%n","1.➕ Add Task","2.👀 View Tasks");
+            System.out.printf("%-21s%-20s%n","3.🔄 Update Task","4.❌ Delete Tasks");
+            System.out.printf("%-20s%n","5.🚪 Exit");
             System.out.print(">> ");
 
             int choice = getInput.nextInt();
