@@ -1,12 +1,9 @@
-# Java Projects
-
 A collection of my Java projects to practice and demonstrate core concepts, including:
 
 - ✅ Control Structures & Loops  
 - 🧠 OOP (Object-Oriented Programming)  
-- 📊 Data Structures & Algorithms  
-- 📁 File Handling  
-- 🛠️ Mini Console Apps (like Task Manager)
+- 📊 Data Structures & Algorithms
+- 🛠️ Mini Console Apps
 
 ## List of Projects
 
