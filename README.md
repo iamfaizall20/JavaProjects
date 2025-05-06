@@ -8,6 +8,11 @@ A collection of my Java projects to practice and demonstrate core concepts, incl
 - 📁 File Handling  
 - 🛠️ Mini Console Apps (like Task Manager)
 
+## List of Projects
+
+1. Expense Tracker (Console based)
+2. Task Manager (Console based)
+
 ## 💡 Purpose
 
 Built for learning, practicing DSA, and creating reusable Java components.
