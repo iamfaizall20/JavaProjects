@@ -9,7 +9,7 @@ A collection of my Java projects to practice and demonstrate core concepts, incl
 
 1. Expense Tracker (Console based)
 2. Task Manager (Console based)
-3. Password Manager(Console based)
+3. Password Manager (Console based)
 
 ## 💡 Purpose
 
